@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gui>
+	<pause>
+	    <posX>0</posX>
+	    <posY>16</posY>
+    	<dimX>32</dimX>
+    	<dimY>32</dimY>
+	</pause>
+	<dPad>
+    	<posX>0</posX>
+    	<posY>112</posY>
+    	<dimX>96</dimX>
+    	<dimY>96</dimY>
+	</dPad>
+	<attack>
+    	<posX>-50</posX>
+    	<posY>112</posY>
+    	<dimX>32</dimX>
+    	<dimY>32</dimY>
+	</attack>
+</Gui>

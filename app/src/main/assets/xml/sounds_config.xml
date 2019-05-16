@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sounds>
+    <sound>
+        <id>0</id>
+        <file>sound1.ogg</file>
+    </sound>
+    <sound>
+        <id>1</id>
+        <file>sound2.ogg</file>
+    </sound>
+</Sounds>

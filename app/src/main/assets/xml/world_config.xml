@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<World>
+    <sequence>0,1</sequence>
+    <map>
+        <id>0</id>
+        <dimX>1440</dimX>
+        <dimY>320</dimY>
+        <dimZ>200</dimZ>
+        <music>bgm.ogg</music>
+        <image>field.png</image>
+    </map>
+    <map>
+        <id>1</id>
+        <dimX>2880</dimX>
+        <dimY>320</dimY>
+        <dimZ>200</dimZ>
+        <music>bgm2.ogg</music>
+        <image>field2.png</image>
+    </map>
+</World>
